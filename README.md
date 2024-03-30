@@ -7,7 +7,7 @@
 
   instahack is a python-based tool for hacking instagram
   with mass-bruteforce attack and auto-generate password                    
-  [github] https://github.com/termuxhackers-id/instahack
+  [github] https://github.com/epicgirl_002-id/instahack
   [250224] type ? or help to show available command
 
   instahack > ?                                        
@@ -27,7 +27,7 @@ manual installation for termux android
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install git which binutils python python-pip -y
-git clone https://github.com/termuxhackers-id/instahack
+git clone https://github.com/epicgirl_002-id/instahack
 cd instahack && pip install -r requirements.txt
 find data/ -name '*.md' -delete
 ```
